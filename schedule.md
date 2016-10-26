@@ -2,7 +2,7 @@
 |--------------	|---------------------------------------------------------------------------------------	|--------------------------------------	|-----------------------------	|---	|---	|
 | ***SATURDAY*** 	|  	|  	|  	|  	|  	|
 | 9:00 - 12:00 	  | 3D Body Scanning 	| Guoyu Liu 	|  	|  	|  	|
-| 10:00 - 11:00 	  | 3D Modeling in Blender for Absolute Beginners 	| Benjamin Hawklyn	|  	|  	|  	|
+| 10:00 - 12:00 	  | 3D Modeling in Blender for Absolute Beginners 	| Benjamin Hawklyn	|  	|  	|  	|
 | 12:00 - 1:00 	    | ***Lunch*** 	|  	|  	|  	|  	|
 | 1:00 - 2:50 	  | Unity Game Engine for Absolute Beginners 	| Gabriel Conception 	|  	|  	|  	|
 | 3:10 - 5:00 	    | RenPy for Absolute Beginners 	| Connie Tang 	|  	|  	|  	|
