@@ -1,7 +1,7 @@
 | Date/Time 	| Session Title  	| Host 	| Notes 	|  	|  	|
 |--------------	|---------------------------------------------------------------------------------------	|--------------------------------------	|-----------------------------	|---	|---	|
 | ***SATURDAY*** 	|  	|  	|  	|  	|  	|
-| 9:00 -12:00 	  | 3D Body Scanning 	| Guoyu Liu 	| James to demo Print and Cut 	|  	|  	|
+| 9:00 -12:00 	  | 3D Body Scanning 	| Guoyu Liu 	|  	|  	|  	|
 | 12:00-1:00 	    | ***Lunch*** 	|  	|  	|  	|  	|
 | 1:00 - 2:50 	  | Unity Game Engine for Absolute Beginners 	| Gabriel Conception 	|  	|  	|  	|
 | 3:10-5:00 	    | RenPy for Absolute Beginners 	| Connie Tang 	|  	|  	|  	|
