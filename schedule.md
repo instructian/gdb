@@ -13,8 +13,7 @@
 | 6:00 - 8:00   	| 3D-Printing Workshop - Preparing to print 	| Guoyu Liu 	|  	|  	|  	|
 | ***SUNDAY***	  |  	|  	|  	|  	|  	|
 | 10:00 - 12:00   	| Introduction to Drawing using Adobe Photoshop 	| Niloofar K 	|  	|  	|  	|
-| 12:00 - 1:00 	    | ***Lunch*** 	|  	|  	|  	|  	|
-| 12:00 - 1:00 	    | Playing with your Food and MakeyMakey 	| Ian Pollock 	|  	|  	|  	|
+| 12:00 - 1:00 	    | ***Lunch*** 	|  	|  Playing with your Food and MakeyMakey 	| Ian Pollock  	|  	|
 | 1:00 - 3:00   	| Motion Capture With Kinect, Ni Mate & Blender 	| Rhonda Holberton 	|  	|  	|  	|
 | 3:00 - 4:00   	| Performance & Avatars: Physical Motion in Virtual Space - Rhonda 	| Rhonda Holberton 	|  	|  	|  	|
 | 4:00 - 5:00 	  | Pick up 3D prints 	| Guoyu Liu 	|  	|  	|  	|
