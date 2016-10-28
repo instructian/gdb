@@ -6,7 +6,7 @@
 |--------------	|---------------------------------------------------------------------------------------	|--------------------------------------	|-----------------------------	|---	|---	|
 | ***SATURDAY*** 	|  	|  	|  	|  	|  	|
 | 9:00 - 12:00 	  | 3D Body Scanning 	| Guoyu Liu 	|  	Create Awesome 3D Wearable Heads With Paper 	| Benjamin Hawklyn & Clemente Garcia & Alaa Maghazil  	|  	|
-| 12:00 - 1:00 	    | ***Lunch*** 	|  	|  	|  	|  	|
+| 12:00 - 1:00 	    | ***Lunch*** 	|  	| ***PUBLIC ADDRESS/KEYNOTE***	|  	|
 | 1:00 - 2:50 	  | Unity Game Engine for Absolute Beginners 	| Gabriel Conception 	|  	|  	|  	|
 | 3:10 - 5:00 	    | RenPy for Absolute Beginners 	| Connie Tang 	|  	|  	|  	|
 | 5:00 - 6:00     | ***Dinner***	|  	|  	|  	|  	|
