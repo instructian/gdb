@@ -13,7 +13,7 @@
 | 6:00 - 8:00     	| Learn 3D-Printing	 & Preparing to print 	| Guoyu Liu 	|  	|  	|  	|
 | ***SUNDAY***	    |  	|  	|  	|  	|  	|
 | 10:00 - 12:00   	| Discover Drawing in Adobe Photoshop | Niloofar Khodabakhs 	|  	|  	|  	|
-| 12:00 - 1:00 	   | ***Lunch Break*** 	|  	|  ***Shorts*** - Play with your Food and MakeyMakeys <br> - The making of Monster King	| <br>  - Ian Pollock <br> - Isaiah Johnson	|  	|
+| 12:00 - 1:00 	   | ***Lunch Break*** 	|  	|  ***Shorts*** <ol><li>Play with your Food and MakeyMakeys</li> <li>The making of Monster King</li></ol>	| <ol><li>&nbsp;</li> <li> - Ian Pollock </li> <li>Isaiah Johnson</li></ol>	|  	|
 | 1:00 - 3:00     	| Discover Motion Capture With Kinect, Ni Mate & Blender 	| Rhonda Holberton 	|  	|  	|  	|
 | 3:00 - 4:00     	| Performance & Avatars: Physical Motion in Virtual Space - Rhonda 	| Rhonda Holberton 	|  	|  	|  	|
 | 4:00 - 5:00 	    | Pick up 3D prints 	| Guoyu Liu 	|  	|  	|  	|
