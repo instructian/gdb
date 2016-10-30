@@ -2,8 +2,8 @@
 
 
 
-| Date/Time 	| Session 1 Title  	| Host 	| Session 2 Title 	|Host|  	|
-|--------------	|---------------------------------------------------------------------------------------	|--------------------------------------	|-----------------------------	|---	|---	|
+| Date/Time 	| Session 1 Title  	| Host 	| Session 2 Title 	|Host| Notes	|
+|----|----|----|----|---|---|
 | ***SATURDAY*** 	 |  	|  	|  	|  	|  	|
 | 9:00 - 12:00 	   | Scan Your Body for 3D Avatars 	| Guoyu Liu 	|  	Create Awesome 3D Wearable Heads out of Paper 	| Benjamin Hawklyn & Clemente Garcia & Alaa Maghazil  	|  	|
 | 12:00 - 1:00 	   | ***Lunch Break*** 	|  	| ***PUBLIC WELCOME***	|  	|
@@ -13,7 +13,7 @@
 | 6:00 - 8:00     	| Learn 3D-Printing	 & Preparing to print 	| Guoyu Liu 	|  	|  	|  	|
 | ***SUNDAY***	    |  	|  	|  	|  	|  	|
 | 10:00 - 12:00   	| Discover Drawing in Adobe Photoshop | Niloofar Khodabakhs 	|  	|  	|  	|
-| 12:00 - 1:00 	   | ***Lunch Break*** 	|  	|  ***Shorts*** <ol><li>Play with your Food and MakeyMakeys</li> <li>The making of Monster King</li></ol>	| <ol><li>&nbsp;</li> <li> - Ian Pollock </li> <li>Isaiah Johnson</li></ol>	|  	|
+| 12:00 - 1:00 	   | ***Lunch Break*** 	|  	|  ***Shorts*** <ol><li>Play with your Food and MakeyMakeys</li> <li>The making of Monster King</li></ol>	| <ol><li> - Ian Pollock </li><li>Isaiah Johnson</li></ol>	|  	|
 | 1:00 - 3:00     	| Discover Motion Capture With Kinect, Ni Mate & Blender 	| Rhonda Holberton 	|  	|  	|  	|
 | 3:00 - 4:00     	| Performance & Avatars: Physical Motion in Virtual Space - Rhonda 	| Rhonda Holberton 	|  	|  	|  	|
 | 4:00 - 5:00 	    | Pick up 3D prints 	| Guoyu Liu 	|  	|  	|  	|
