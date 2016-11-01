@@ -1,4 +1,4 @@
-![Game Dev Boot Camp Banner](banner.Png "Game Dev Bootcamp Banner")
+![Game Dev Boot Camp Banner](banner.png "Game Dev Boot Camp Banner")
 
 
 | Date/Time 	| Session 1 Title  	| Host 	| Session 2 Title 	|Host| Notes	|
