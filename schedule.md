@@ -8,7 +8,7 @@
 | 11:00 - 4:00 	   | Play Board Games And Meet New Friends At The Game Playing Lounge  	|  	| |  	|
 | 12:00 - 1:00 	   | ***Lunch Break*** 	|  	| ***Public Welcome***	|  	|
 | 1:00 - 2:50 	    | Explore The Unity Game Engine For Beginners 	| Gabriel Conception 	|  	|  	|  	|
-| 3:10 - 5:00 	    | Create Interactive Novels With Renpy For Beginners 	| Connie Tang 	|  	|  	|  	|
+| 3:10 - 5:00 	    | Create Interactive Novels With RenPy For Beginners 	| Connie Tang 	|  	|  	|  	|
 | 5:00 - 6:00      | ***Dinner Break***	|  	|  	|  	|  	|
 | 6:00 - 8:00     	| Learn 3D-Printing	 & Preparing To Print 	| Guoyu Liu 	|  	|  	|  	|
 | ***Sunday***	    |  	|  	|  	|  	|  	|
