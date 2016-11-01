@@ -1,4 +1,4 @@
-![Game Dev Boot Camp Banner](banner.png "LGame Dev Boot Camp Banner")
+![Game Dev Boot Camp Banner](banner.png "Game Dev Boot Camp Banner")
 
 # Game Dev Boot Camp
 ### November 19 and 20 - Cal State East Bay
