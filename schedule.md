@@ -1,6 +1,5 @@
 ![Game Dev Boot Camp Banner](banner.png "LGame Dev Boot Camp Banner")
 
-Play board games and meet new friends at the Game Playing Lounge 
 
 | Date/Time 	| Session 1 Title  	| Host 	| Session 2 Title 	|Host| Notes	|
 |----|----|----|----|---|---|
