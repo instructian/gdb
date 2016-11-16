@@ -12,14 +12,14 @@ Do you love playing games? We do, too! Ever wonder how to make your own game? We
 
 ***11:00 - 4:00*** - Are you a boardgamer? Play Board Games And Meet New Friends At The Game Playing Lounge - bring your friends - have a blast!
 
-### Lunch Break - Public Welcome (12:00 - 1:00)### 
+#### Lunch Break - Public Welcome (12:00 - 1:00) #### 
 
 ***1:00 - 2:50*** - Explore The Unity Game Engine For Beginners: Unity is the game engine of choice for developers and it is free for students! This workshop shows you how to get started with Unity and make your first game.  This is a workshop for people with a passion dive into video game making.  No prior experience needed. 
 
 
 ***3:10 - 5:00***  - Create Interactive Novels With RenPy For Beginners: Do you love interactive visual novels, are you ready to make your own interactive visual novel, but you don't know where to start?  This workshop is for you! Come join us in exploring the RenPy visual novel environment and get started on your masterpiece today!
 
-### Dinner Break(5:00 - 6:00)###
+#### Dinner Break(5:00 - 6:00) ####
 
 ***6:00 - 8:00*** - Learn 3D-Printing	 & Preparing To Print: Are you curious about 3D printing?  Let's get started on making the files work with 3d printers.  Set them up and print.  You can grab your model tomorrow.  Combine this with the 3d scanning for the ultimate selfie!
 
