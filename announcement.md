@@ -14,10 +14,10 @@ Do you love playing games? We do, too! Ever wonder how to make your own game? We
 
 ***12:00 - 1:00*** - #### Lunch Break - Public Welcome####
 
-***1:00 - 2:50 - Explore The Unity Game Engine For Beginners: Unity is the game engine of choice for developers and it is free for students! This workshop shows you how to get started with Unity and make your first game.  This is a workshop for people with a passion dive into video game making.  No prior experience needed. 
+***1:00 - 2:50*** - Explore The Unity Game Engine For Beginners: Unity is the game engine of choice for developers and it is free for students! This workshop shows you how to get started with Unity and make your first game.  This is a workshop for people with a passion dive into video game making.  No prior experience needed. 
 
 
-***3:10 - 5:00  - Create Interactive Novels With RenPy For Beginners: Do you love interactive visual novels, are you ready to make your own interactive visual novel, but you don't know where to start?  This workshop is for you! Come join us in exploring the RenPy visual novel environment and get started on your masterpiece today!
+***3:10 - 5:00***  - Create Interactive Novels With RenPy For Beginners: Do you love interactive visual novels, are you ready to make your own interactive visual novel, but you don't know where to start?  This workshop is for you! Come join us in exploring the RenPy visual novel environment and get started on your masterpiece today!
 
 ***5:00 - 6:00*** ####Dinner Break####
 
@@ -33,9 +33,7 @@ Do you love playing games? We do, too! Ever wonder how to make your own game? We
 ***12:00 - 1:00*** - #### Lunch Break and Short Talk #### 
 
 1. Play With Your Food And Makeymakeys: Check out this crazy stuff and play with your food using these digital tools.
-
 2. The Making Of Monster King - How do you make a game that let's you kick buildings around with your feet? Find out here.
-
 3. Drone Hacking at HackDay - How do you hack drones to catch moquitos? Find out at this talk!
 
 ***1:00 - 3:00*** - Discover Motion Capture With Kinect, Ni Mate & Blender: Lear how to use a cheap kinect sensor to create virtual puppets that do you bidding.  Are you ready?
