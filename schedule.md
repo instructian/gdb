@@ -16,7 +16,7 @@ Do you love playing games? We do, too! Ever wonder how to make your own game? We
 | ***Sunday***	    |  	|  	|  	|  	|  	|
 | 10:00 - 12:00   	| Discover Drawing In Adobe Photoshop | Niloofar Khodabakhs 	|  	|  	|  	|
 | 11:00 - 4:00 	   | Play Board Games And Meet New Friends At The Game Playing Lounge  	|  	| |  	|
-| 12:00 - 1:00 	   | ***Lunch Break*** 	|  	|  ***Shorts*** <Ol><Li>Play With Your Food And Makeymakeys</Li> <Li>The Making Of Monster King</Li><li>Drone Hacking at HackDay</li></Ol>	| <Ol><Li> - Ian Pollock </Li><Li>Isaiah Johnson</Li><li>Nasser Alzakari and 
+| 12:00 - 1:00 	   | ***Lunch Break*** 	|  	|  ***Shorts*** <Ol><Li>Play With Your Food And Makeymakeys</Li> <Li>The Making Of Monster King</Li><li>Drone Hacking at HackDay</li></Ol>	| <Ol><Li>Ian Pollock </Li><Li>Isaiah Johnson</Li><li>Nasser Alzakari and 
 Vardhaman Gopani</li></Ol>	|  	|
 | 1:00 - 3:00     	| Discover Motion Capture With Kinect, Ni Mate & Blender 	| Rhonda Holberton 	|  	|  	|  	|
 | 3:00 - 4:00     	| Performance & Avatars: Physical Motion In Virtual Space - Rhonda 	| Rhonda Holberton 	|  	|  	|  	|
