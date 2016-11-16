@@ -5,7 +5,7 @@ Do you love playing games? We do, too! Ever wonder how to make your own game? We
 ### Register Now! seating is limited for some sections [https://goo.gl/PYNKu2](https://goo.gl/PYNKu2) ###
 
 
-***Saturday*** 
+## Saturday ##
 9:00 - 12:00 - Scan Your Body For 3D Avatars: Use a 3Dscanner to create a model of yourself that you can edit, animate and print in 3d. Limited slots available  - register now!
 
 9:00 - 12:00 - Create Awesome 3D Wearable Heads Out Of Paper: Make a giant head out of paper and wear it around campus or your home.  So fun!
@@ -24,8 +24,8 @@ Do you love playing games? We do, too! Ever wonder how to make your own game? We
 6:00 - 8:00 - Learn 3D-Printing	 & Preparing To Print: Are you curious about 3D printing?  Let's get started on making the files work with 3d printers.  Set them up and print.  You can grab your model tomorrow.  Combine this with the 3d scanning for the ultimate selfie!
 
 
-***Sunday***
-10:00 - 12:00  - Discover Drawing In Adobe Photoshop: Have you ever wondered how to use photoshop to draw with digital pens?  This workshop is for you.  Spend the morning excercising your creative muscles and draw with us. Combine this workshop with the RenPy visual interactive novel making for maximum effect!
+## Sunday ##
+*** 10:00 - 12:00 ***  - Discover Drawing In Adobe Photoshop: Have you ever wondered how to use photoshop to draw with digital pens?  This workshop is for you.  Spend the morning excercising your creative muscles and draw with us. Combine this workshop with the RenPy visual interactive novel making for maximum effect!
 
 
 11:00 - 4:00 - Are you a boardgamer? Play Board Games And Meet New Friends At The Game Playing Lounge - bring your friends - have a blast!
