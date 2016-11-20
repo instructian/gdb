@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>maykeymakey - demo 1</title>
+    <script src="soundmanager2.js" charset="utf-8"></script>
+  </head>
+  <body>
+
+
+
+
+<script>
+
+var charCode;
+
+document.onkeypress =  function(e){
+       var charCode = (typeof e.which == "number") ? e.which : e.keyCode
+       console.log(charCode);
+
+       switch(charCode) {
+
+        case 119: //key w
+            console.log("w");
+            soundManager.play('mySound2');
+            break;
+        case 97: //A
+            soundManager.play('mySound3');
+            console.log("a");
+            break;
+        default:
+            console.log("something else");
+        }
+ }
+
+
+
+</script>
+
+
+
+<script>
+
+soundManager.setup({
+
+    // where to find the SWF files, if needed
+    url: '_mp3/',
+
+    onready: function() {
+      // SM2 has loaded, API ready to use e.g., createSound() etc.
+      console.log("SM2 has loaded");
+
+      soundManager.createSound({
+       id: 'mySound2',
+       url: '_mp3/button-0.mp3'
+      });
+      soundManager.createSound({
+       id: 'mySound3',
+       url: '_mp3/button-1.mp3'
+      });
+
+
+    },
+
+    ontimeout: function() {
+      // Uh-oh. No HTML5 support, SWF missing, Flash blocked or other issue
+       console.log("Uh-oh. No HTML5 support, SWF missing, Flash blocked or other issue");
+    }
+
+});
+
+
+
+</script>
+  </body>
+</html>
